@@ -13,7 +13,7 @@ public class DemoApplication {
 		String source = "Here is an example. Right here.";
 		String word = "here";
 		int result = Practice.getOccurrences(source, word);
-		System.out.println("number of occurrences "+result);
+		System.out.println("number of occurrences is so and so  "+result);
 	}
 
 }
